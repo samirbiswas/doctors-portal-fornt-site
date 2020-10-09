@@ -1,0 +1,22 @@
+.header-containers{
+    height: 600px;
+    position: relative;
+    background-image: url('../../../images/backgrount-chair.png');
+    background-size: cover;
+   
+}
+
+.header-containers::after{
+    height: 600px;
+    content:' ';
+    position: absolute;
+    top:0;
+    width: 30%;
+    right: 0;
+    background-color: rgb(70, 64, 64);
+    z-index: -50;
+    
+}
+
+
+

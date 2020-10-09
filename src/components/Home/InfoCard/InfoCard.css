@@ -1,0 +1,15 @@
+.info-primary{
+    background-color: aqua;
+}
+
+.info-dark{
+    background-color: rgb(62, 65, 65);
+}
+.info-container{
+    height: 100px;
+    padding: 25px;
+}
+.info-icon{
+    font-size: 2em;
+    color: white;
+}
